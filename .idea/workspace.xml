@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aec408d1-df5a-44b2-8e16-b4db876c9ee3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181925. 수 조작하기 2/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181925. 수 조작하기 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181928. 이어 붙인 수/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181928. 이어 붙인 수/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181930. 주사위 게임 2/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181930. 주사위 게임 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181933. flag에 따라 다른 값 반환하기/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181933. flag에 따라 다른 값 반환하기/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181935. 홀짝에 따라 다른 값 반환하기/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181935. 홀짝에 따라 다른 값 반환하기/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181936. 공배수/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181936. 공배수/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181937. n의 배수/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181937. n의 배수/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181940. 문자열 곱하기/ Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181940. 문자열 곱하기/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 기초 트레이닝/181940. 문자열 곱하기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181845. 문자열로 변환/ Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181845. 문자열로 변환/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181845. 문자열로 변환/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181850. 정수 부분/ Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181850. 정수 부분/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181850. 정수 부분/solution.c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181926. 수 조작하기 1/ Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181926. 수 조작하기 1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181927. 마지막 두 원소/ Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181927. 마지막 두 원소/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181929. 원소들의 곱과 합 /README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181929. 원소들의 곱과 합 /Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181938. 두 수의 연산값 비교하기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181938. 두 수의 연산값 비교하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181939. 더 크게 합치기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181939. 더 크게 합치기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181941. 문자 리스트를 문자열로 변환하기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181941. 문자 리스트를 문자열로 변환하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181941. 문자 리스트를 문자열로 변환하기/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181944. 홀짝 구분하기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181944. 홀짝 구분하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181944. 홀짝 구분하기/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181946. 문자열 붙여서 출력하기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181946. 문자열 붙여서 출력하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV0/181946. 문자열 붙여서 출력하기/solution.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mzznv1OYpw69l1FdUwVjh2sGXj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mskang/Documents/programmers/코딩 기초 트레이닝/181930. 주사위 게임 2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/코딩 기초 트레이닝/181930. 주사위 게임 2" />
+      <recent name="$PROJECT_DIR$/코딩 기초 트레이닝/181937. n의 배수" />
+      <recent name="$PROJECT_DIR$/코딩 기초 트레이닝/181936. 공배수" />
+      <recent name="$PROJECT_DIR$/코딩 기초 트레이닝/181928. 이어 붙인 수" />
+      <recent name="$PROJECT_DIR$/코딩 기초 트레이닝/181940. 문자열 곱하기" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/코딩 기초 트레이닝/181928. 이어 붙인 수" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec408d1-df5a-44b2-8e16-b4db876c9ee3" name="Changes" comment="" />
+      <created>1728094362428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728094362428</updated>
+    </task>
+    <servers />
+  </component>
+</project>
