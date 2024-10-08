@@ -5,13 +5,3 @@
   <li>LV2 : ?</li>
   <li>Total : ?</li>
 </ul>
-
-<hr>
-
-<h2>백준</h2>
-<ul>
-  <li>Bronze</li>
-  <li>Silver</li>
-  <li>Gold</li>
-  <li>Total : ?</li>
-</ul>
