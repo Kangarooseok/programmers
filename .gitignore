@@ -1,1 +1,4 @@
 .idea/workspace.xml
+
+### 제외시킬 out 폴더 ###
+out/
