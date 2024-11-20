@@ -44,7 +44,7 @@
 
 <ul>
     <li>다음 그림은 주어진 입력을 해결하는 방법 중 하나를 나타낸 것입니다.</li>
-    <li>![ex1](https://github.com/user-attachments/assets/70af5b61-807d-48ef-bf6c-6a721f76bb5d)</li>
+    ![ex1](https://github.com/user-attachments/assets/2edf7768-9c21-4f3d-95db-73346e9f153d)
     <li>4번과 7번을 연결하는 전선을 끊으면 두 전력망은 각 6개와 3개의 송전탑을 가지며, 이보다 더 비슷한 개수로 전력망을 나눌 수 없습니다.</li>
     <li>또 다른 방법으로는 3번과 4번을 연결하는 전선을 끊어도 최선의 정답을 도출할 수 있습니다.</li>
 </ul>
